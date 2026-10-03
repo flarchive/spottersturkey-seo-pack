@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of spottersturkey/seo-pack.** Not for installation: use [Packagist](https://packagist.org/packages/spottersturkey/seo-pack) or the [upstream repository](https://github.com/framiodev/spottersturkey-seo-pack).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/spottersturkey-seo-pack/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0 || ^2.0.0-beta.1 || ^2.0.0-rc.1`
+**1** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/spottersturkey-seo-pack/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0 || ^2.0.0-beta.1 || ^2.0.0-rc.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.0.0` | 2026-05-23 | `^2.0 || ^2.0.0-beta.1 || ^2.0.0-rc.1` | [Browse](https://github.com/flarchive/spottersturkey-seo-pack/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/spottersturkey-seo-pack.json](https://github.com/flarchive/archive-index/blob/main/packages/spottersturkey-seo-pack.json)
 
